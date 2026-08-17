@@ -1,0 +1,16 @@
+# Credentials and local secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*.json
+secrets/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+test-results/
