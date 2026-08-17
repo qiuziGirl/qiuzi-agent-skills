@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qiuzi Spring Boot Testing"
+  short_description: "面向 Java 团队的分层 Spring Boot 测试编写与评审规范"
+  default_prompt: "Use $qiuzi-spring-boot-testing to 为当前 Spring Boot 模块补充或评审测试，并选择适当测试层级。"
