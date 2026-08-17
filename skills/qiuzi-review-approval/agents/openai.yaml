@@ -1,0 +1,7 @@
+interface:
+  display_name: "Qiuzi Review Approval"
+  short_description: "Verify review comments and wait for explicit approval"
+  default_prompt: "Use $qiuzi-review-approval to verify these code review comments, propose bounded fixes, and wait for my explicit approval."
+
+policy:
+  allow_implicit_invocation: true

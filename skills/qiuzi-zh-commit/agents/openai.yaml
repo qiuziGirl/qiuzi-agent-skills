@@ -1,0 +1,7 @@
+interface:
+  display_name: "Qiuzi Zh Commit"
+  short_description: "翻译或生成中文 Git Conventional Commit 提交说明"
+  default_prompt: "Use $qiuzi-zh-commit to 翻译英文提交信息，或根据当前改动生成中文提交说明。"
+
+policy:
+  allow_implicit_invocation: true
