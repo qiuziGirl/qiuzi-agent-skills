@@ -8,6 +8,7 @@
 - `qiuzi-spring-boot-testing`：Spring Boot 的 JUnit 5 与 Mockito 分层测试指引。
 - `qiuzi-zh-commit`：生成或翻译简体中文 Conventional Commit 信息。
 - `qiuzi-review-staged`：聚焦暂存区改动的提交前评审。
+- `qiuzi-cursor-usage`：查询 Cursor 当前计费周期的真实消费、Included 额度和 On-demand 用量。
 
 本仓库不包含公司内部 Skill、第三方 Skill、内置 Skill，也不包含 `qiuzi-workspace-builder`。
 
