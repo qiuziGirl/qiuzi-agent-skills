@@ -9,6 +9,7 @@
 - `qiuzi-zh-commit`：生成或翻译简体中文 Conventional Commit 信息。
 - `qiuzi-review-staged`：聚焦暂存区改动的提交前评审。
 - `qiuzi-cursor-usage`：查询 Cursor 当前计费周期的真实消费、Included 额度和 On-demand 用量。
+- `qiuzi-md-richtext`：将 Markdown 转为可粘贴到富文本编辑器的自包含 HTML，Mermaid 图表渲染为内嵌 PNG。
 
 本仓库不包含公司内部 Skill、第三方 Skill、内置 Skill，也不包含 `qiuzi-workspace-builder`。
 

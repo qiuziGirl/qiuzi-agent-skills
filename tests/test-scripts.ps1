@@ -127,7 +127,8 @@ not-a-real-key
         'qiuzi-spring-boot-testing',
         'qiuzi-zh-commit',
         'qiuzi-review-staged',
-        'qiuzi-cursor-usage'
+        'qiuzi-cursor-usage',
+        'qiuzi-md-richtext'
     )
     $repositoryTargetRoot = Join-Path $testRoot 'repository-install-target'
     $repositoryInstallExitCode = Invoke-PowerShellScript -Script {

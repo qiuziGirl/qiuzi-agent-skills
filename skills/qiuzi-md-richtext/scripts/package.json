@@ -1,0 +1,10 @@
+{
+  "name": "qiuzi-md-richtext-scripts",
+  "private": true,
+  "type": "module",
+  "description": "qiuzi-md-richtext Skill 的 Markdown 转富文本 HTML 脚本依赖",
+  "dependencies": {
+    "marked": "^18.0.14",
+    "puppeteer": "^25.12.0"
+  }
+}

@@ -14,3 +14,7 @@ Thumbs.db
 
 # Test artifacts
 test-results/
+
+# Node dependencies installed for skill scripts
+node_modules/
+package-lock.json
